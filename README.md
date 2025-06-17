@@ -85,7 +85,7 @@ ANOVA 분석 결과, 성과(Performance Rank)는 성별, 직책, 부서, 인종 
 </figure>
 
 ---
->### 생존율 추정(Survival Curve of Employee Tenure)
+>### 근속연수에 따른 생존율(Survival Curve of Employee Tenure)
 본 분석은 Kaplan-Meier 생존곡선을 활용하여 직원의 근속연수(Tenure)에 따른 생존 확률(= 퇴사하지 않은 비율)을 시계열적으로 추적하고, 이탈이 집중되는 시점을 식별하는 데 목적이 있다.
 
 <br>
