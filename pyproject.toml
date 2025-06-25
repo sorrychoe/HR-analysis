@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "HR-data-analysis"
 description = "Data Analysis Pratice of HR data"
-author = ["cjssoote@gmail.com"]
+author = ["cjssoote@gmail.com", "hhappee3@gmail.com"]
 
 [tool.poetry.dependencies]
 black = ">=19.3b0,<=22.12"
